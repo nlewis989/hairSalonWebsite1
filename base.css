@@ -1,0 +1,29 @@
+:root {
+    --red-text: #f4848f;
+    --yellow-bg: #e3fc00;
+    --small-container: 20px;
+}
+
+
+h1 {
+    color: var(--red--text);
+    padding:var(--small--container);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+ 
+ul[class],
+ol[class] {
+    padding: 20px;
+
+}
+
+a.default-link {
+    color:red;
+    
+}
+
+a:hover {
+    color
+}
