@@ -127,3 +127,12 @@ nav {
     justify-content: space-between;
     margin: 10px;
 }
+
+@media (max-width: 576px) {
+}
+
+@media (max-width: 576px) {
+.bot_container {
+ flex-direction: column;
+ height: fit-content;
+}
